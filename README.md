@@ -38,8 +38,6 @@ cd mvp
 
 Run scripts
 
-Run scripts
-
 | Method | Command |
 | :-----------: | :-----------: |
 | **Simple_Graph** | ```python graph_regression.py``` |
