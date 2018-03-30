@@ -30,6 +30,8 @@ Run scripts
 
 ## Micro-Video Popularity Prediction
 
+Download video features: [feature.csv.tgz](https://drive.google.com/open?id=1A8PuXN9CFTJpocAHq0kPa0vbfYZ95ZRh) and replace the feature.csv under data/mvp.
+
 Change working directory
 
 ```
