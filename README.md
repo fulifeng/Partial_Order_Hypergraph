@@ -4,7 +4,7 @@ Fuli Feng, Xiangnan He, Yiqun Liu, Liqiang Nie, and Tat-Seng Chua (2018). Learni
 We are finding license suitable to release this software. Codes will be released later.
 
 Last update Date: 1 Apr., 2018
-<Source code of partial-order hypergraph and baselines in our WWW 2018 paper, Learning on Partial-Order Hypergraphs
+<!---Source code of partial-order hypergraph and baselines in our WWW 2018 paper, Learning on Partial-Order Hypergraphs
 
 ## Requirements
 
@@ -32,12 +32,12 @@ Run scripts
 | **POH_Salary** | ```python poh_ranking.py``` |
 | **POH_NCEE** | ```python poh_ranking.py -t ncee``` |
 | **POH_All** | ```python poh_ranking.py -t all``` |
->
+--->
 ## Micro-Video Popularity Prediction
 
 Download video features: [feature.csv.tgz](https://drive.google.com/open?id=1A8PuXN9CFTJpocAHq0kPa0vbfYZ95ZRh) and replace the feature.csv under data/mvp.
 
-<Change working directory
+<!---Change working directory
 
 ```
 cd mvp
@@ -72,4 +72,4 @@ If you use the code, please kindly cite the following paper:
 ## Contact
 
 fulifeng93@gmail.com
->
+--->
